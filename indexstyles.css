@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 50px;
+    padding-top: 320px;
+}
+
+.container {
+    flex-direction: row;
+}
+
+div {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: monospace;
+    margin-left: 192px;
+    margin-right: 187px;
+    display: flex;
+}
+
+.classicwaffles,
+.pestopasta,
+.pannacotta {
+    height: 100px;
+    width: 250px;
+}
+

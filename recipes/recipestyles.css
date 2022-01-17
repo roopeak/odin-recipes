@@ -1,0 +1,47 @@
+h1 {
+    font-weight: bold;
+    font-size: 80px;
+    text-align: center;
+    font-family: monospace;
+}
+
+h2 {
+    font-family: monospace;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+h3 {
+    text-align: center;
+    font-family: monospace;
+}
+
+.pestopastaimage,
+.pannacottaimage,
+.waffleimage {
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.steps {
+    text-align: center;
+    font-family: monospace;
+    font-size: 15px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 150%;
+}
+
+.back {
+    width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: monospace;
+    font-weight: bold;
+    
+}
